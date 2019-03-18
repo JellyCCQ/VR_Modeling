@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mune
+  - MoveJointRight
+  - MoveJointLeft
+  - MoveJoint
+  - ControllerLeft
+  - ControllerRight
+  - MenuPanel
+  - ModelPanel
+  - ObjectPanel
+  - HelpPanel
+  - TopPanelText
+  - TopPanel
+  - ScalePanel
+  - newobject
+  - Combined
+  - cube3D
+  - sphere3D
+  - cylinder3D
+  - torus3D
+  - Menu3D
+  - Menu2D
+  - Menucolor
+  - Menucontrol
+  - Menumodifier
+  - Menudelete
+  - Handtool
+  - modifiertool
+  - EditorPoint
+  - scene
+  - Conbinetool
+  - saveMenu
+  - importMenu
+  - pentool
+  - colorpaint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

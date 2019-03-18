@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 0c435fbce6ac99d449a7ab7641b849b2
+timeCreated: 1516871714
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: dmz0
+    100002: dmz1
+    100004: dmz2
+    100006: dmz3
+    100008: //RootNode
+    100010: shouzhang
+    100012: sz0
+    100014: sz1
+    100016: sz2
+    100018: sz3
+    100020: wmz0
+    100022: wmz1
+    100024: wmz2
+    100026: wmz3
+    100028: xmz0
+    100030: xmz1
+    100032: xmz2
+    100034: xmz3
+    100036: zz0
+    100038: zz1
+    100040: zz2
+    100042: zz3
+    400000: dmz0
+    400002: dmz1
+    400004: dmz2
+    400006: dmz3
+    400008: //RootNode
+    400010: shouzhang
+    400012: sz0
+    400014: sz1
+    400016: sz2
+    400018: sz3
+    400020: wmz0
+    400022: wmz1
+    400024: wmz2
+    400026: wmz3
+    400028: xmz0
+    400030: xmz1
+    400032: xmz2
+    400034: xmz3
+    400036: zz0
+    400038: zz1
+    400040: zz2
+    400042: zz3
+    2300000: dmz0
+    2300002: dmz1
+    2300004: dmz2
+    2300006: dmz3
+    2300008: //RootNode
+    2300010: shouzhang
+    2300012: sz0
+    2300014: sz1
+    2300016: sz2
+    2300018: sz3
+    2300020: wmz0
+    2300022: wmz1
+    2300024: wmz2
+    2300026: wmz3
+    2300028: xmz0
+    2300030: xmz1
+    2300032: xmz2
+    2300034: xmz3
+    2300036: zz0
+    2300038: zz1
+    2300040: zz2
+    2300042: zz3
+    3300000: dmz0
+    3300002: dmz1
+    3300004: dmz2
+    3300006: dmz3
+    3300008: //RootNode
+    3300010: shouzhang
+    3300012: sz0
+    3300014: sz1
+    3300016: sz2
+    3300018: sz3
+    3300020: wmz0
+    3300022: wmz1
+    3300024: wmz2
+    3300026: wmz3
+    3300028: xmz0
+    3300030: xmz1
+    3300032: xmz2
+    3300034: xmz3
+    3300036: zz0
+    3300038: zz1
+    3300040: zz2
+    3300042: zz3
+    4300000: handend
+    4300002: shouzhang
+    4300004: dmz0
+    4300006: dmz1
+    4300008: dmz2
+    4300010: dmz3
+    4300012: sz0
+    4300014: sz1
+    4300016: sz2
+    4300018: sz3
+    4300020: wmz0
+    4300022: wmz1
+    4300024: wmz2
+    4300026: wmz3
+    4300028: xmz0
+    4300030: xmz1
+    4300032: xmz2
+    4300034: xmz3
+    4300036: zz0
+    4300038: zz1
+    4300040: zz2
+    4300042: zz3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
